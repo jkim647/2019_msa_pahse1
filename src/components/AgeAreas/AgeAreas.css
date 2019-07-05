@@ -1,0 +1,39 @@
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+.ageZone {
+    height: 51vh;
+    background-color:#eeeeee;
+    border-radius: 20px;
+    color: #9b59b6;
+    border-collapse: collapse;
+    width:50%;
+    float:left;
+}
+.ageZone1{
+    border-collapse: collapse;
+    color: #9b59b6;
+    border-radius: 20px;
+    height: 51vh;
+    background-color: #eeeeeece;
+    margin-left: 50%;
+}
+.ageZone1h3{
+    padding-top:20px;
+}
+  
+  h3{
+      text-align:center;
+  }
+  li{
+      font-size:30px;
+  }
+.adjust{
+    padding-left: 30px;
+    
+}
+h2{
+    text-align:center;
+}
